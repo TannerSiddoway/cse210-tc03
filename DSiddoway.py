@@ -1,3 +1,2 @@
-Def Dsiddoway():
-  Print("Hello from Dallin Siddoway")
- 
+def dsiddoway():
+  print("Hello from Dallin Siddoway")

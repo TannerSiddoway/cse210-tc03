@@ -1,2 +1,2 @@
-def name():
-    Print("Hello I'm Tanner!")
+def Name():
+    print("Hello I'm Tanner!")

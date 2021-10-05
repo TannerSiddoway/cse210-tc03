@@ -1,2 +1,2 @@
-def Name():
+def MName():
     print("Hello I am the great wizard Andrew Morris who has powers over animals and projector screens. Except for that one projector screen in room 398 in the STC building because it seeks my destruction.")

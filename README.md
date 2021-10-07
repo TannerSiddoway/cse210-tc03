@@ -8,5 +8,5 @@ I'm 20 and I major in Electrical Engineering. I'm from Boise Idaho and I have 5 
 Tanner Siddoway
 I was born and raised in Boise Idaho. My favorite TV show is MASH and my favorite movie is Spiderman Into the Spiderverse. I like playing board games and video games. My favorites are DC Deck Building and Minecraft.
 Devon Ludwig
-
+    I am 25 years old. I have 2 kids a boy and a girl. I am a data science major. I am a jack of all trades and hopefully I can master this one. I am and outdoorsy guy who likes to hike and do extreme watersports. 
 
